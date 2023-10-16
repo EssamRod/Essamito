@@ -1,2 +1,2 @@
-# Essamito
-That is a doman expansion, infinite void
+Dominio de expansion, vacio infinito
+
